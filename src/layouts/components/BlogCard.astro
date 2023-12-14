@@ -16,14 +16,15 @@ const { title, image, date, author, categories } = data.data;
 <div class="bg-body dark:bg-darkmode-body">
   {
     image && (
-      <Image
-        class="mb-6 w-full rounded"
+    <a href={`/${blog_folder}/${data.slug}`}><Image
+        class="mb-6 w-full rounded grayscale hover:grayscale-0 hover:scale-110"
         src={image}
         alt={title}
         width={445}
-        height={230}
+        height={445}
         format="webp"
       />
+      </a>
     )
   }
   <h4 class="mb-3">

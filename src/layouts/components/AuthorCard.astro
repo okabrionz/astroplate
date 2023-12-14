@@ -12,14 +12,16 @@ const { title, image, social } = data.data;
 >
   {
     image && (
-      <Image
-        class="mx-auto mb-6 rounded"
-        src={image}
-        alt={title}
-        width={120}
-        height={120}
-        format="webp"
-      />
+      <a href={`/authors/${data.slug}`}>
+        <Image
+          class="mx-auto mb-6 rounded-full"
+          src={image}
+          alt={title}
+          width={300}
+          height={300}
+          format="webp"
+        />
+      </a>
     )
   }
   <h4 class="mb-3">

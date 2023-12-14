@@ -9,7 +9,7 @@ social:
     link: https://github.com
 
   - name: twitter
-    icon: FaTwitter
+    icon: FaXTwitter
     link: https://twitter.com
 
   - name: linkedin
