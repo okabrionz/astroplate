@@ -1,7 +1,7 @@
 ---
-title: Sam Wilson
-email: samwilson@email.com
-image: "/images/avatar.png"
+title: Oka Brionz
+email: johndoe@email.com
+image: "/images/rat.jpg"
 description: this is meta description
 social:
   - name: github

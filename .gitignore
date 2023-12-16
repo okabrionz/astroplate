@@ -24,3 +24,7 @@ package-lock.json
 
 # ignore .astro directory
 .astro
+path/to/file
+path/to/directory/file
+path/to/directory/file1.txt
+path/to/directory/file2.txt

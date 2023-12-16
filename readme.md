@@ -2,7 +2,7 @@
 
 <p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
 
-<p align=center>Made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
+<p align=center>Made with ♥ by <a href="https://www.okabrionz.com/">Zeon Studio</a></p>
 
 <p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
 
@@ -117,7 +117,7 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 <!-- licence -->
 ## 📝 License
 
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
+Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://www.okabrionz.com/)
 
 **Code License:** Released under the [MIT](https://github.comzeon-studio/astroplate/blob/main/LICENSE) license.
 
@@ -125,4 +125,4 @@ Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon
 
 ## 💻 Need Custom Development Services?
 
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).
+If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://www.okabrionz.com/).

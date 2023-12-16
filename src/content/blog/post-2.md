@@ -3,7 +3,7 @@ title: "How to build a Robotic For Cleaning Room"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/soylul.jpeg"
+image: "/images/astro-moon.jpeg"
 categories: ["Technology", "Data"]
 author: "Sam Wilson"
 tags: ["technology", "tailwind"]

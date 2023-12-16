@@ -1,6 +1,6 @@
 ---
-title: William Jacob
-email: williamjacob@email.com
+title: Eded Romania
+email: samwilson@email.com
 image: "/images/avatar.png"
 description: this is meta description
 social:

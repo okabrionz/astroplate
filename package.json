@@ -1,8 +1,8 @@
 {
   "name": "astroplate",
   "version": "3.0.0",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "description": "Astro and Tailwindcss Boilerplate",
+  "author": "www.okabrionz.com",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
