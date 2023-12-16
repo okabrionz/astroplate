@@ -67,7 +67,7 @@ const { title, meta_title, description, image, noindex, canonical } =
 
     <!-- title -->
     <title>
-      {plainify(meta_title ? meta_title : title ? title : config.site.title)}
+      {plainify(title ? `${title} - ${config.site.title}` : meta_title ? `${meta_title} - ${config.site.title}` : `${config.site.homeTitle} - ${config.site.title}`)}
     </title>
 
     <!-- canonical url -->
