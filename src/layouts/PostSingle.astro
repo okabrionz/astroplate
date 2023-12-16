@@ -1,5 +1,6 @@
 ---
 import BlogCard from "@/components/BlogCard.astro";
+import Breadcrumbs from "@/components/Breadcrumbs.astro";
 import Share from "@/components/Share.astro";
 import Disqus from "@/helpers/Disqus";
 import { getSinglePage } from "@/lib/contentParser.astro";
@@ -26,7 +27,8 @@ const { title, description, author, categories, image, date, tags } = post.data;
   <div class="container">
     <div class="row justify-center">
       <article class="lg:col-10">
-        <a  class="btn btn-primary mb-3" href='/blog' title='Back to blog'>&larr; Back to blog</a>
+        <a  class="btn btn-primary my-3 hover:-rotate-6" href='/blog' title='Back to blog'>&larr; Back to blog</a>
+        <Breadcrumbs className="mt-6" />
         <h1 set:html={markdownify(title)} class="h2 mb-4" />
         <ul class="mb-4">
           <li class="mr-4 inline-block">
@@ -76,7 +78,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
                 tags.map((tag: string) => (
                   <li class="inline-block">
                     <a
-                      class="m-1 block rounded bg-theme-light px-3 py-1 hover:bg-primary hover:text-white   "
+                      class="m-1 block rounded bg-black text-white text-black dark:text-white hover:rotate-6 px-3 py-1 hover:bg-primary hover:text-white   "
                       href={`/tags/${slugify(tag)}`}
                     >
                       {humanize(tag)}

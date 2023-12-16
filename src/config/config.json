@@ -25,13 +25,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://www.okabrionz.com)"
+    "copyright": "Designed And Developed by [Oka Brionz](https://www.okabrionz.com)"
   },
 
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "link": "https://github.com/okabrionz/astroplate"
   },
 
   "disqus": {

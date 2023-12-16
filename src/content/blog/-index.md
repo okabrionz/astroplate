@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "The Go Blog!"
 meta_title: ""
-description: "this is meta description"
+description: "Get latest posts early and do the practical web development better."
 ---

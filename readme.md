@@ -1,8 +1,8 @@
 <h1 align=center>Astro + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
 
-<p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
+<p align=center>Habred is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
 
-<p align=center>Made with ♥ by <a href="https://www.okabrionz.com/">Zeon Studio</a></p>
+<p align=center>Made with ♥ by <a href="https://www.okabrionz.com/">Oka Brionz</a></p>
 
 <p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
 
@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/static/v1?label=ASTRO&message=4.0&color=000&logo=astro" />
   </a>
 
-  <a href="https://github.com/zeon-studio/astroplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/astroplate" alt="license"></a>
+  <a href="https://github.com/okabrionz/astroplate/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/okabrionz/astroplate" alt="license"></a>
 
-  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/astroplate" alt="code size">
+  <img src="https://img.shields.io/github/languages/code-size/okabrionz/astroplate" alt="code size">
 
-  <a href="https://github.com/zeon-studio/astroplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/astroplate" alt="contributors"></a>
+  <a href="https://github.com/okabrionz/astroplate/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/okabrionz/astroplate" alt="contributors"></a>
 </p>
 
 ## 📌 Key Features
@@ -111,13 +111,13 @@ docker run -it --rm astroplate ash
 <!-- reporting issue -->
 ## 🐞 Reporting Issues
 
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/astroplate/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/astroplate/issues).
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/okabrionz/astroplate/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/okabrionz/astroplate/issues).
 
 <!-- licence -->
 ## 📝 License
 
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://www.okabrionz.com/)
+Copyright (c) 2023 - Present, Designed & Developed by [Oka Brionz](https://www.okabrionz.com/)
 
 **Code License:** Released under the [MIT](https://github.comzeon-studio/astroplate/blob/main/LICENSE) license.
 
