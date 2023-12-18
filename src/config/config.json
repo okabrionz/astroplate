@@ -5,7 +5,7 @@
     "base_url": "https://okabrionz.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.svg",
     "logo": "/images/logo-nav-light.png",
     "logo_darkmode": "/images/logo-nav-dark.png",
     "logo_width": "150",

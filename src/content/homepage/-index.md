@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "Ga Sempet Ngedip Kan Buka Web Ini?"
-  content: "Habred is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Jangan Lewatkan Kesempatan! Ayo Kunjungi Web Ini Sekarang!"
+  content: "Habred adalah template starter gratis yang dibangun dengan Astro dan TailwindCSS, menyediakan semua yang Anda butuhkan untuk memulai proyek Astro Anda dan menghemat waktu berharga Anda."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Mulai Gratis Sekarang"
     link: "https://github.com/okabrionz/astroplate"
 
 # Features
 features:
-  - title: "What's Included in Habred"
+  - title: "Apa yang Termasuk di dalam Habred"
     image: "/images/service-1.png"
-    content: "Habred is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Habred"
+    content: "Habred adalah template starter komprehensif yang mencakup segala yang Anda butuhkan untuk memulai proyek Astro Anda. Apa yang Termasuk di dalam Habred"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "10+ Halaman siap pakai"
+      - "Nilai Google Pagespeed Score 95+"
+      - "Dibangun dengan Astro dan TailwindCSS untuk styling yang mudah dan dapat disesuaikan"
+      - "Responsif sepenuhnya di semua perangkat"
+      - "SEO-optimized untuk peringkat mesin pencari yang lebih baik"
+      - "**Sumber terbuka dan gratis** untuk penggunaan pribadi maupun komersial"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Mulai Sekarang"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Temukan Fitur Utama dari Astro"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Astro adalah kerangka kerja web all-in-one untuk membangun situs web cepat berfokus konten. Ini menawarkan berbagai fitur menarik untuk pengembang dan pembuat situs web. Beberapa fitur utamanya adalah:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Tanpa JS, secara default: Tidak ada overhead runtime JavaScript yang dapat memperlambat Anda."
+      - "Dapat Disesuaikan: Tailwind, MDX, dan 100+ integrasi lainnya untuk dipilih."
+      - "UI-agnostic: Mendukung React, Preact, Svelte, Vue, Solid, Lit, dan banyak lagi."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Mulai Sekarang"
       link: "https://github.com/okabrionz/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Alasan Utama Memilih Astro untuk Proyek Anda Selanjutnya"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Dengan Astro, Anda dapat membangun situs web modern yang berfokus pada konten tanpa mengorbankan kinerja atau kemudahan penggunaan."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Muat situs statis secara instan untuk pengalaman pengguna dan SEO yang lebih baik."
+      - "Syntax intuitif dan dukungan untuk kerangka kerja populer membuat belajar dan menggunakan Astro semudah menghirup udara."
+      - "Gunakan perpustakaan atau kerangka kerja front-end apa pun, atau bangun komponen kustom, untuk proyek dengan berbagai ukuran."
+      - "Dibangun dengan teknologi mutakhir untuk menjaga proyek Anda selalu terkini dengan standar web terbaru."
     button:
       enable: false
       label: ""
